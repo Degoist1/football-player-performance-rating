@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+
+# Caches and local temporary files
+.cache_home/
+.DS_Store
+Thumbs.db
+*.log
+
+# Streamlit local credentials (keep config.toml)
+.streamlit/credentials.toml
+
+# Virtual environments
+venv/
+.venv/
+env/
